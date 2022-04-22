@@ -1,0 +1,30 @@
+.box{
+    width: 350px;
+    margin-left:470px;
+    padding: 10px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.body{
+    background-image: url('https://c1.wallpaperflare.com/preview/988/16/35/sunset-kerala-aleppay-boat.jpg');
+    background-size: cover;
+}
+#round{
+    border-radius: 10px;
+}
+#exp{
+    margin-top: 340px;
+    margin-left:-220px;
+    font-weight: bold;
+    color:black;
+}
+.login{
+    background-image: url('https://images.thrillophilia.com/image/upload/s--bejISfVD--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/126/889/original/1522671846_Munnar.jpg.jpg');
+    background-size: cover;
+
+}
+.gradient{
+    background: linear-gradient(to top left, #990033 20%, #ffffff 111%);
+    margin-left:100px;
+    margin-top: 700px;
+}
