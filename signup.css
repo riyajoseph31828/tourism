@@ -19,15 +19,14 @@
     color:black;
 }
 .login{
-    background-image: url('https://images.thrillophilia.com/image/upload/s--bejISfVD--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/126/889/original/1522671846_Munnar.jpg.jpg');
+    background-image: url('https://travelsparadise.in/wp-content/uploads/2021/05/Kerala-1030x494.jpg');
     background-size: cover;
 
 }
 .gradient{
-   
+    background: linear-gradient(to top left, #990033 20%, #ffffff 111%);
     margin-left:100px;
     margin-top: 700px;
-    background-image:url('https://c1.wallpaperflare.com/preview/804/778/325/sky-background-nature-blue.jpg');
-    background-size: cover;
+    background-image:url('');
 }
 
